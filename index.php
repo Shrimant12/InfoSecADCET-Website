@@ -1,7 +1,3 @@
-<?php
-
-?>
-
 
 <html>
 <head>
@@ -23,9 +19,6 @@ Made with ❤ by SMshrimant
 
 <a href="https://github.com/Shrimant12" target="_blank" ><IMG SRC="GitHub-Mark-64px.png" ALT="some text" WIDTH=40 HEIGHT=40> </a>
 
-<script>
-
-</script>
 
 </body>
 </html>
